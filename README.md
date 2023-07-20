@@ -13,7 +13,7 @@ Dari perspective engineer, anggaplah ini hanya sebuah CRUD.
 Ini adalah stack frontend yang kamu harus gunakan untuk proyek ini:
 
 - Vue/React
-- Vuex/Redux
+- ~~Vuex~~Pinia/Redux
 - ExpressJS
 
 ### More technical details
