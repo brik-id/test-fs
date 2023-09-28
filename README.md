@@ -15,6 +15,7 @@ Ini adalah stack frontend yang kamu harus gunakan untuk proyek ini:
 - Vue/React
 - ~~Vuex~~Pinia/Redux
 - ExpressJS
+- PostgreSQL/MongoDB
 
 ### More technical details
 
@@ -64,7 +65,7 @@ KISS (Keep It Simple Stupid) - Jangan lupa target audience-nya kemungkinan gapte
 
 ### Important Notice!
 - Mohon buat instruction steps untuk run program dan flow testing.
-- Pastikan ada user yang bisa dipakai untuk testing dan berikan login infonya di dalam ReadMe kalian.
+- Pastikan ada user yang bisa dipakai untuk testing dan berikan login infonya di dalam ReadMe kalian, beserta file .env nya.
 - Pastikan sudah ada seeder produk-produknya.
 
 ### What we care about
